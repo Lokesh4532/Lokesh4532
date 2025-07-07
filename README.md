@@ -35,20 +35,11 @@
 ### 📊 GitHub Overview
 
 #### 📌 Language Breakdown
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilokeshghosh&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lokesh4532&layout=compact&theme=radical)
 
 #### 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ilokeshghosh&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ilokeshghosh&theme=radical&hide_border=false)
-
----
-
-### 🔧 Notable Projects (Pinned)
-
-- 🔗 **[Link-stock-FullStack-App](https://github.com/ilokeshghosh/Link-stock-FullStack-App)** – Full‑stack web application to manage and share curated links.
-- 🎬 **[moviePad](https://github.com/ilokeshghosh/moviePad)** – Movie recommendation app using React.
-- 🍽️ **[recipebook-project](https://github.com/ilokeshghosh/recipebook-project)** – Recipe management and discovery platform.
-- 🖼️ **[artinest](https://github.com/ilokeshghosh/artinest)** – Blog-style platform with content creation using Appwrite + React.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lokesh4532&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lokesh4532&theme=radical&hide_border=false)
 
 ---
 
